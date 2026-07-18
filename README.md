@@ -21,7 +21,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorcarrasquel/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belivictx2004@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-coleccioneschic.com-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://coleccioneschic.com/)
 
 <br/>
 
@@ -78,12 +77,12 @@ const expertise = {
   <tr>
     <td width="50%" valign="top">
       <h3>🛍️ <a href="https://coleccioneschic.com/">Colecciones Chic</a></h3>
-      <p><strong>Fashion E-Commerce Platform</strong></p>
-      <p>Full-featured online fashion store in production with active customers, dynamic catalog management, shopping cart, secure checkout, and order tracking.</p>
+      <p><strong>Client Project — Fashion E-Commerce</strong></p>
+      <p>Full-featured online fashion store built for a client, currently live with active customers. Includes dynamic catalog management, shopping cart, secure checkout, and order tracking.</p>
       <p><strong>Tech Stack:</strong> Next.js, TypeScript, PostgreSQL, Stripe, Tailwind CSS</p>
       <p>
         <img src="https://img.shields.io/badge/Status-Live_🟢-10B981?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Type-E--Commerce-6366F1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Type-Client_Work-6366F1?style=flat-square"/>
         <img src="https://img.shields.io/badge/Users-Active-10B981?style=flat-square"/>
       </p>
     </td>
@@ -251,12 +250,10 @@ _Open to freelance projects, collaborations, and remote opportunities._
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorcarrasquel/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belivictx2004@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victorinoxt)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://coleccioneschic.com/)
 
 <br/>
 
 **📧 Email:** belivictx2004@gmail.com  
-**🌐 Portfolio:** [coleccioneschic.com](https://coleccioneschic.com/)  
 **💼 LinkedIn:** [/in/victorcarrasquel](https://www.linkedin.com/in/victorcarrasquel/)
 
 </div>
