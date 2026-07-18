@@ -21,7 +21,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorcarrasquel/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belivictx2004@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Caso_de_Éxito-coleccioneschic.com-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://coleccioneschic.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-coleccioneschic.com-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://coleccioneschic.com/)
 
 <br/>
 
@@ -31,69 +31,95 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 🧑‍💻 About Me
 
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Full_Stack_&_Architecture-6366F1?style=flat-square"/>
   <img src="https://img.shields.io/badge/Stack-Next.js_+_Node.js_+_Rust-38BDF8?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Mode-Freelance_&_Client_Projects-10B981?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Mode-Freelance_&_Open_to_Opportunities-10B981?style=flat-square"/>
   <img src="https://img.shields.io/github/last-commit/Victorinoxt/Victorinoxt?style=flat-square&color=6366F1&label=Profile%20Updated"/>
 </div>
 
 <br/>
 
-> _Desarrollador Full Stack enfocado en arquitectura, rendimiento y entrega real. De la idea al deploy — end to end._
+> _Full Stack Developer specialized in architecture, performance, and real-world delivery. From concept to production — end to end._
 
-Construyo **plataformas web y aplicaciones de producción** con un stack moderno y versátil. Me muevo cómodo en el frontend con Next.js y el backend con Node.js/Express o Django, y cuando el proyecto lo pide, bajo al metal con Rust o cubro multiplataforma con Flutter y Tauri.
+I build **production-ready web platforms and applications** using modern, versatile technology stacks. Proficient in frontend development with Next.js, backend systems with Node.js/Express and Django, and when projects demand it, I leverage Rust for high-performance desktop applications or Flutter for cross-platform solutions.
 
-<table>
-  <tr>
-    <td width="50%">
+**🎯 Core Expertise**
 
-### 🎯 En qué trabajo
+```typescript
+const expertise = {
+  web: ["Next.js 14", "React", "TypeScript", "Tailwind CSS", "Framer Motion"],
+  backend: ["Node.js/Express", "Django", "PostgreSQL", "Prisma ORM", "REST APIs"],
+  systems: ["Rust", "Tauri Desktop Apps"],
+  mobile: ["Flutter", "Dart", "Cross-platform Development"],
+  architecture: ["Clean Architecture", "Type-Safe Development", "Scalable Design"],
+  devops: ["Vercel", "Docker", "GitHub Actions", "Linux", "CI/CD"],
+  integration: ["Stripe Payments", "FFmpeg Processing", "Odoo ERP"]
+};
+```
 
-- 🌐 **Plataformas web** con Next.js 14, TypeScript y Tailwind
-- 🔧 **APIs REST** con Node.js/Express, Django y PostgreSQL/Prisma
-- 🦀 **Apps de escritorio** con Tauri + Rust para máximo rendimiento
-- 📱 **Apps móviles y cross-platform** con Flutter/Dart
-- 🗄️ **Bases de datos y modelado** con PostgreSQL, Prisma, Django ORM y Odoo
+**💼 Professional Approach**
 
-</td>
-<td width="50%">
-
-### 💡 Cómo trabajo
-
-- 🏗️ **Arquitectura limpia** — separación de responsabilidades real
-- 🔄 **TypeScript end-to-end** — frontend y backend tipados
-- 🎨 **UI con criterio** — Tailwind + Framer Motion con intención
-- 📦 **Decisiones técnicas independientes** — elijo el stack correcto
-
-</td>
-  </tr>
-</table>
+- 🏗️ **Clean Architecture** — Clear separation of concerns and maintainable codebases
+- 🔄 **Type-Safe Development** — End-to-end TypeScript for reliability
+- 🎨 **Intentional UI/UX** — Tailwind CSS + Framer Motion with purpose-driven design
+- 📊 **Data-Driven Decisions** — Choosing the right stack for each project's requirements
+- ✅ **Production Focus** — Building solutions that work in the real world
 
 <br/>
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>✅ <a href="https://coleccioneschic.com/">Colecciones Chic</a></h3>
-      <p>Plataforma e-commerce de moda en producción. Caso de éxito real con clientes activos, catálogo dinámico y experiencia de compra completa.</p>
+      <h3>🛍️ <a href="https://coleccioneschic.com/">Colecciones Chic</a></h3>
+      <p><strong>Fashion E-Commerce Platform</strong></p>
+      <p>Full-featured online fashion store in production with active customers, dynamic catalog management, shopping cart, secure checkout, and order tracking.</p>
+      <p><strong>Tech Stack:</strong> Next.js, TypeScript, PostgreSQL, Stripe, Tailwind CSS</p>
       <p>
         <img src="https://img.shields.io/badge/Status-Live_🟢-10B981?style=flat-square"/>
         <img src="https://img.shields.io/badge/Type-E--Commerce-6366F1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Users-Active-10B981?style=flat-square"/>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚧 LMS Platform <sub><sup>(en desarrollo)</sup></sub></h3>
-      <p>Plataforma de cursos online custom para cliente — reemplaza Podia con funcionalidades a medida: gestión de videos, pagos con Stripe y certificados automatizados.</p>
+      <h3>📚 Custom LMS Platform</h3>
+      <p><strong>Learning Management System</strong></p>
+      <p>Custom online course platform replacing Podia with tailored functionality: video course management, Stripe payment integration, automated certificate generation, and student progress tracking.</p>
+      <p><strong>Tech Stack:</strong> Next.js, Node.js, PostgreSQL, Stripe API, FFmpeg</p>
       <p>
-        <img src="https://img.shields.io/badge/Status-In_Progress_🔨-F59E0B?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Stack-Next.js_+_Node.js_+_PostgreSQL-38BDF8?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Status-In_Development_🔨-F59E0B?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Type-SaaS-6366F1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Client-Commissioned-38BDF8?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🦀 Tauri Desktop Apps</h3>
+      <p><strong>High-Performance Desktop Solutions</strong></p>
+      <p>Cross-platform desktop applications built with Tauri and Rust, delivering native performance with web technologies. Focus on system-level operations and resource efficiency.</p>
+      <p><strong>Tech Stack:</strong> Rust, Tauri, TypeScript, React</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Active-10B981?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Type-Desktop-6366F1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Platform-Cross--platform-38BDF8?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔧 Django REST APIs</h3>
+      <p><strong>Backend Systems & Integrations</strong></p>
+      <p>Scalable REST API development with Django and PostgreSQL. Focus on clean architecture, authentication, authorization, and third-party service integration (Stripe, payment gateways, ERP systems).</p>
+      <p><strong>Tech Stack:</strong> Python, Django, PostgreSQL, Docker, Redis</p>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Production-10B981?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Type-Backend-6366F1?style=flat-square"/>
+        <img src="https://img.shields.io/badge/API-REST-38BDF8?style=flat-square"/>
       </p>
     </td>
   </tr>
@@ -103,22 +129,25 @@ Construyo **plataformas web y aplicaciones de producción** con un stack moderno
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Technology Stack
 
 <details open>
-<summary><b>🌐 Frontend</b></summary>
+<summary><b>🌐 Frontend Development</b></summary>
 <br/>
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>⚙️ Backend</b></summary>
+<summary><b>⚙️ Backend Development</b></summary>
 <br/>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -127,11 +156,12 @@ Construyo **plataformas web y aplicaciones de producción** con un stack moderno
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </details>
 
 <details open>
-<summary><b>🦀 Systems & Cross-platform</b></summary>
+<summary><b>🦀 Systems & Cross-Platform</b></summary>
 <br/>
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -145,13 +175,24 @@ Construyo **plataformas web y aplicaciones de producción** con un stack moderno
 <summary><b>☁️ DevOps & Tools</b></summary>
 <br/>
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔌 APIs & Integrations</b></summary>
+<br/>
+
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </details>
 
@@ -159,17 +200,64 @@ Construyo **plataformas web y aplicaciones de producción** con un stack moderno
 
 ---
 
-## 📬 ¿Hablamos?
+## 📊 GitHub Statistics
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Victorinoxt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=38BDF8&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorinoxt&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
+</div>
 
-_Disponible para proyectos freelance, colaboraciones y oportunidades remotas._
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Victorinoxt&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=38BDF8&currStreakLabel=6366F1" alt="GitHub Streak" />
+</div>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorcarrasquel/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belivictx2004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victorinoxt)
+---
+
+## 💼 What I Bring to Your Project
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <h3>🎯 Full-Stack Expertise</h3>
+      <p>End-to-end development from database design to polished UI. I handle both frontend and backend, ensuring seamless integration and optimal performance.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🏗️ Architecture First</h3>
+      <p>Clean, scalable code architecture that grows with your business. Focus on maintainability, testing, and long-term sustainability.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🚀 Production Ready</h3>
+      <p>Deployed, tested, and monitored solutions. I deliver working products, not just code. Real users, real results.</p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+_Open to freelance projects, collaborations, and remote opportunities._
+
+**💡 Have a project in mind? Let's discuss how I can help bring it to life.**
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorcarrasquel/)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belivictx2004@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Victorinoxt)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://coleccioneschic.com/)
+
+<br/>
+
+**📧 Email:** belivictx2004@gmail.com  
+**🌐 Portfolio:** [coleccioneschic.com](https://coleccioneschic.com/)  
+**💼 LinkedIn:** [/in/victorcarrasquel](https://www.linkedin.com/in/victorcarrasquel/)
 
 </div>
 
