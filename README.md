@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=6,12,20&text=Victor%20Carrasquel&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Building%20scalable%20solutions&descAlignY=55&descSize=20" width="100%"/>
-
-<br/>
+<img width="100%" src="assets/yo.png" alt="Victor Carrasquel - Full Stack Developer"/>
 
 # Hi there! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="waving hand" height="36" />
 
+### Soy **Victor Carrasquel**
+
+#### 🚀 Full Stack Developer · Architect & Builder
+
 <br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+%7C+Next.js+%2B+Node.js;Building+scalable+web+platforms;Tauri+%2B+Rust+%2B+Flutter+%7C+Cross-platform;From+idea+to+production+%E2%80%94+end+to+end" alt="Typing SVG" />
-</a>
-
-<br/><br/>
 
 <a href="https://coleccioneschic.com/">
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
